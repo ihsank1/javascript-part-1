@@ -1,14 +1,11 @@
 module.exports = add;
 
 function add(a, b) {
-    /*
 
-      Write some code here !!!
 
-     */
-    return null; // This can be deleted as well ;)
+
+    return a+b; // This can be deleted as well ;)
 }
-
 
 /*
    Utilities functions (just for helping)
